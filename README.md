@@ -2,6 +2,8 @@
 
 A privacy-focused macOS menu bar application that automatically masks sensitive information in your clipboard content. Protect your personal data by automatically replacing sensitive information like emails, phone numbers, credit cards, and more with placeholder text.
 
+[CLICK HERE IF YOU ARE USING WINDOWS.](https://github.com/qusaismael/ClipboardMaskingWindows)
+
 <img width="610" height="536" alt="image" src="https://github.com/user-attachments/assets/156511e0-df16-4004-b870-68a7d31b318d" />
 
 
