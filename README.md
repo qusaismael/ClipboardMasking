@@ -1,5 +1,6 @@
 # ClipboardMasking 🔒
-<img width="632" height="590" alt="image" src="https://github.com/user-attachments/assets/7ca3d7c2-3128-414e-95d5-83a1085a1fc8" />
+<img width="632" height="590" alt="image" src="https://github.com/user-attachments/assets/04fa2601-d529-4424-9593-f19168954676" />
+
 A privacy-focused macOS menu bar application that automatically masks sensitive information in your clipboard content. Protect your personal data by automatically replacing sensitive information like emails, phone numbers, credit cards, and more with placeholder text.
 
 
