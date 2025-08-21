@@ -1,0 +1,34 @@
+# Xcode
+*.xcuserstate
+xcuserdata/
+*.moved-aside
+DerivedData/
+build/
+
+# Xcode build artifacts
+*.xcarchive
+*.dSYM
+*.xcresult
+
+# Reports/Coverage
+*.xccovreport
+*.xccovarchive
+
+# Swift Package Manager
+.build/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+
+# Local env/secrets (safety net)
+.env
+.env.*
+*.local
+*.pem
+*.key
