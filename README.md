@@ -4,7 +4,7 @@
 A privacy-focused macOS menu bar application that automatically masks sensitive information in your clipboard content. Protect your personal data by automatically replacing sensitive information like emails, phone numbers, credit cards, and more with placeholder text.
 
 
-## ✨ Features
+## Features
 
 - **🔍 Real-time Monitoring**: Continuously monitors clipboard changes and automatically masks sensitive data
 - **🛡️ Privacy Protection**: Masks multiple types of sensitive information:
@@ -156,13 +156,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ClipboardMasking operates entirely on your local machine. No data is sent to external servers. All masking rules and settings are stored locally using UserDefaults.
 
-## 🐛 Known Issues
+## Known Issues
 
 - The app only monitors text content (not images or other data types)
 - Some complex regex patterns may need fine-tuning for specific use cases
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with SwiftUI and AppKit
 - Inspired by the need for better clipboard privacy
